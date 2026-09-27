@@ -1,0 +1,6 @@
+{
+  "name": "HBR II Project Monitoring System",
+  "description": "Sistem monitoring proyek konstruksi jalan tol elevated Harbour Road II (HBR II) berbasis Project Control / Progress Monitoring Engineer (PME).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
